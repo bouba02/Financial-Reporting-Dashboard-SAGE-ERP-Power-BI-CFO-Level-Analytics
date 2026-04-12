@@ -127,9 +127,9 @@ Plus de **100 mesures DAX** ont été développées pour couvrir les besoins mé
 ### 💰 Trésorerie & BFR
 
 - `BFR`  : Besoin en Fonds de Roulement = Créances + Stock - Dettes fournisseurs - Dettes fiscales - Dettes associés. BFR négatif = favorable, les fournisseurs financent l'activité.
-- `DSO`: Days Sales Outstanding = Créances clients / (CA / 365). Délai moyen de recouvrement client en jours. 47,7 j ici.
-- `DPO`: Days Payable Outstanding = Dettes fournisseurs / (Total Charges / 365). Délai moyen de paiement fournisseurs. 332,9 j ici vs 60 j standard.
-- `DIO`  : Days Inventory Outstanding = Stock / (Coût Variable / 365). Délai moyen de rotation des stocks en jours. DIO = 0 ici (pas de stocks).
+- `DSO`: Days Sales Outstanding = Créances clients / (CA / 365). Délai moyen de recouvrement client en jours.
+- `DPO`: Days Payable Outstanding = Dettes fournisseurs / (Total Charges / 365). Délai moyen de paiement fournisseurs. 
+- `DIO`  : Days Inventory Outstanding = Stock / (Coût Variable / 365). Délai moyen de rotation des stocks en jours. 
 - `Cash_Runway_Mois`  : Nombre de mois pendant lesquels l'entreprise peut fonctionner avec sa trésorerie actuelle au rythme de dépenses actuel.
 
 ### 📊 Analyses avancées
