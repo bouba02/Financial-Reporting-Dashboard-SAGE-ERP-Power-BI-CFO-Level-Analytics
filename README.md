@@ -1,4 +1,4 @@
-# Financial Reporting Dashboard — Power BI | Real Client Project
+# CMGP Africa — Financial Reporting Dashboard | SAGE → Power BI | 100+ DAX Measures
 
 > **Real client · SAGE ERP integration · 100+ DAX measures · Live in production**  
 > 4,000+ accounting entries · 15+ tables · Star Schema + Bridge tables · 7 pages
